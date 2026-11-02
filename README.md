@@ -60,48 +60,36 @@ These are **public, academic projects**. My enterprise work involves proprietary
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [AI for Education](https://github.com/jaoo2706/Tech-Challenge-3)
-
-**Predictive ML · Explainability · scikit-learn**
-
-A machine learning workflow to identify Brazilian municipalities at risk of missing literacy goals, using temporal validation and model explainability.
-
-\`Python\` \`scikit-learn\` \`SHAP\` \`BigQuery\`
+<h3><a href="https://github.com/jaoo2706/Tech-Challenge-3">🧠 AI for Education</a></h3>
+<p><strong>Predictive ML · Explainability · scikit-learn</strong></p>
+<p>A machine learning workflow to identify Brazilian municipalities at risk of missing literacy goals, using temporal validation and model explainability.</p>
+<p><code>Python</code> <code>scikit-learn</code> <code>SHAP</code> <code>BigQuery</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔄 [Hybrid Data Pipeline](https://github.com/jaoo2706/Tech-Challenge-2)
-
-**Data Engineering · Batch + Streaming**
-
-An educational data platform with Bronze/Silver/Gold layers, quality checks, monitoring, and cost-aware architecture.
-
-\`PySpark\` \`Redpanda\` \`Parquet\` \`GCP\`
+<h3><a href="https://github.com/jaoo2706/Tech-Challenge-2">🔄 Hybrid Data Pipeline</a></h3>
+<p><strong>Data Engineering · Batch + Streaming</strong></p>
+<p>An educational data platform with Bronze/Silver/Gold layers, quality checks, monitoring, and cost-aware architecture.</p>
+<p><code>PySpark</code> <code>Redpanda</code> <code>Parquet</code> <code>GCP</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Predictive NPS Analytics](https://github.com/jaoo2706/Tech-Challenge-1)
-
-**Data Science · Customer Experience**
-
-Exploratory analysis and predictive modeling to investigate drivers of customer satisfaction in e-commerce.
-
-\`Python\` \`Pandas\` \`Machine Learning\`
+<h3><a href="https://github.com/jaoo2706/Tech-Challenge-1">📊 Predictive NPS Analytics</a></h3>
+<p><strong>Data Science · Customer Experience</strong></p>
+<p>Exploratory analysis and predictive modeling to investigate drivers of customer satisfaction in e-commerce.</p>
+<p><code>Python</code> <code>Pandas</code> <code>Machine Learning</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 [Explore all repositories](https://github.com/jaoo2706?tab=repositories)
-
-**Projects, experiments & learning**
-
-A growing collection of experiments in machine learning, software engineering, and automation.
-
-[**Browse my GitHub →**](https://github.com/jaoo2706?tab=repositories)
+<h3><a href="https://github.com/jaoo2706?tab=repositories">💡 Explore all repositories</a></h3>
+<p><strong>Projects, experiments &amp; learning</strong></p>
+<p>A growing collection of experiments in machine learning, software engineering, and automation.</p>
+<p><a href="https://github.com/jaoo2706?tab=repositories"><strong>Browse my GitHub →</strong></a></p>
 
 </td>
 </tr>
